@@ -1,0 +1,23 @@
+---
+title: "Discussion 11 Data 607"
+author: "Wilson Chau"
+date: "2022-11-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 1) The website I am going to observe over would be https://www.bookish.com
+
+This website gives us an insight on different books and other websites to look at for different books.
+<a href="https://www.bookish.com</a> 
+
+# 2) Attempt to reverse engineer what you can about the site, from the site interface and any available information that you can find on the Internet or elsewhere.
+
+Reverse engineering the website, I would go from having a huge list of genre books and try to subcategories them into groups that can lead to specific genres
+
+# 3) Include specific recommendations about how to improve the site's recommendation capabilities going forward.
+
+If there would be any improvements I would try to add some recommendation to the genre list, or try to do add specific age group that can cater to specific groups that attracts to certain genre. 
